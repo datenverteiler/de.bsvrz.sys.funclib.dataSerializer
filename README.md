@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.dataSerializer v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.dataSerializer.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.dataSerializer)
+de.bsvrz.sys.funclib.dataSerializer v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.dataSerializer.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.dataSerializer)
 =================
 
 
