@@ -1,0 +1,4 @@
+-exportcontents: de.bsvrz.sys.funclib.dataSerializer.*
+-sources: true
+
+Bundle-Name: de.bsvrz.sys.funclib.dataSerializer
